@@ -32,7 +32,7 @@ To run this project, you need the following dependencies installed:
 
 2. pip install -r requirements.txt
 
-3. SERPER_API_KEY=your_serper_api_key
+3. SERPER_API_KEY=your_serper_api_key , 
    GOOGLE_API_KEY=your_crewai_api_key
 
 4. python crew.py
